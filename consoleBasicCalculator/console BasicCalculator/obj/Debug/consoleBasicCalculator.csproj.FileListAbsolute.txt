@@ -1,0 +1,7 @@
+C:\Users\mihal\source\repos\consoleBasicCalculator\console BasicCalculator\bin\Debug\ZadaciSelenium.exe.config
+C:\Users\mihal\source\repos\consoleBasicCalculator\console BasicCalculator\bin\Debug\ZadaciSelenium.exe
+C:\Users\mihal\source\repos\consoleBasicCalculator\console BasicCalculator\bin\Debug\ZadaciSelenium.pdb
+C:\Users\mihal\source\repos\consoleBasicCalculator\console BasicCalculator\obj\Debug\consoleBasicCalculator.csprojAssemblyReference.cache
+C:\Users\mihal\source\repos\consoleBasicCalculator\console BasicCalculator\obj\Debug\consoleBasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mihal\source\repos\consoleBasicCalculator\console BasicCalculator\obj\Debug\ZadaciSelenium.exe
+C:\Users\mihal\source\repos\consoleBasicCalculator\console BasicCalculator\obj\Debug\ZadaciSelenium.pdb
