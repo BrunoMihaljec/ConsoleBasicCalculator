@@ -1,7 +1,0 @@
-C:\Users\mihal\source\repos\ZadaciSelenium\ZadaciSelenium\bin\Debug\ZadaciSelenium.exe.config
-C:\Users\mihal\source\repos\ZadaciSelenium\ZadaciSelenium\bin\Debug\ZadaciSelenium.exe
-C:\Users\mihal\source\repos\ZadaciSelenium\ZadaciSelenium\bin\Debug\ZadaciSelenium.pdb
-C:\Users\mihal\source\repos\ZadaciSelenium\ZadaciSelenium\obj\Debug\Prvi Zadatak.csprojAssemblyReference.cache
-C:\Users\mihal\source\repos\ZadaciSelenium\ZadaciSelenium\obj\Debug\Prvi Zadatak.csproj.CoreCompileInputs.cache
-C:\Users\mihal\source\repos\ZadaciSelenium\ZadaciSelenium\obj\Debug\ZadaciSelenium.exe
-C:\Users\mihal\source\repos\ZadaciSelenium\ZadaciSelenium\obj\Debug\ZadaciSelenium.pdb

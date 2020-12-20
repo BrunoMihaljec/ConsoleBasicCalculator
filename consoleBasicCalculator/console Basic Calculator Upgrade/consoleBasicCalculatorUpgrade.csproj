@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{B5DFF420-A2EC-44F1-B028-871B09EB73FF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Drugi_Zadatak</RootNamespace>
-    <AssemblyName>Drugi Zadatak</AssemblyName>
+    <RootNamespace>consoleBasicCalculatorUpgrade</RootNamespace>
+    <AssemblyName>consoleBasicCalculatorUpgrade</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
